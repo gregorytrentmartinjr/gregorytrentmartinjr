@@ -1,4 +1,4 @@
-# Gregory Martin | Linux Distribution Engineer 🌊
+<h1 align="center">Gregory Martin | Linux Distribution Engineer</h1>
 
 <p align="center">
   <a href="https://mainstreamos.org">
